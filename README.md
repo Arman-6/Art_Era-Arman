@@ -1,4 +1,4 @@
-# Arman-6.gihub.io
+# ArtEraByArman
 
 I am Arman Sayyed, 
 This is my first multi-webpage project, made this stuff for college project and it is kind of a basic website as i did html and css for the first time.
